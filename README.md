@@ -1,5 +1,5 @@
 # TRIANGLE TRACKER
-#### The application uses lengths to determine if a triangle is scalene ,isosclese,equilateral or not a triangle, FEB 15 2019
+#### The application uses lengths to determine if a triangle is scalene ,isosclese ,equilateral or not a triangle, FEB 15 2019
 #### By **Shirley Keter**
 ## Description
 The triangle tracker determines whether a triangle is equilateral, isoscelese , scalene or not a triangle.The user enters in the length of the base , height and hypotenus .
@@ -14,7 +14,7 @@ The triangle tracker determines whether a triangle is equilateral, isoscelese , 
 ## Known Bugs
 {Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
 ## Technologies Used
-Built using:HTML,JavaScript ,CSS
+Built using:HTML ,JavaScript ,CSS
 ## Support and contact details
 Incase of issues and questions contact shirleyketer@gmail.com
 ### License
