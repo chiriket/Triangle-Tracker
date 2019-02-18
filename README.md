@@ -11,32 +11,32 @@ The triangle tracker determines whether a triangle is equilateral, isoscelese , 
 * easy-to-understand
 * format
 {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
-## BDD
+##BDD
 
-  BEHAVIOUR         INPUT               OUTPUT----------------|-----------------|-----------------|
-base =           |                 |                 |
-                 |                 |                 |
-                 |                 |
-|----------------|-----------------|
-|                |                 |
-|                |                 |
-|----------------|
-
-|
-|                |
-|----------------|
-|
-
-
-
-
-
-## Known Bugs
+|   BEHAVIOUR      | INPUT     | OUTPUT      |
+|------------------|-----------|-------------|          
+|base = height     |  6,6,6    | equilateral |          
+| =hypotenus       |           |             |   
+|------------------|-----------|-------------|          
+|base = height or  |  6,6,5    |isoscelese   |
+|height = hypotenus|           |             |
+|orbase = hypotenus|           |             |  
+|------------------|-----------|-------------|
+|base+height<      | 4,2,1     | not a       |
+|hypotenus         | 2+1<4     | triangle    |
+|height+hypotenus< |           |             |
+|<base             |           |             |
+|base+hypotenus<   |           |             |
+|<height           |           |             |
+|------------------|-----------|-------------|
+|no sides are equal| 6,4,8     |scalene      |                                   
+|------------------|-----------|-------------|
 No known Bugs.
 ## Technologies Used
 Built using:HTML ,JavaScript ,CSS
 ## Support and contact details
 Incase of issues and questions contact shirleyketer@gmail.com
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
+MIT License
+
+Copyright (c) 2019 Shirley Keter

@@ -11,8 +11,8 @@ else if(base===height || height===hypotenus || hypotenus===base){
   alert("This is an Isosceles Triangle");
 }
 else if((base+height) <=hypotenus || (height + hypotenus) <=base ||(hypotenus + base) <=height){
-  alert("This is not a triangle!");
+  alert("This is not triangle!");
 }
-else {
-  alert("This is a Scalene triangle");
+else if(base <= height <=hypotenus){
+  alert("This is a scalene triangle");
 }};
