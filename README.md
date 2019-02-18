@@ -5,16 +5,15 @@
 The triangle tracker determines whether a triangle is equilateral, isoscelese , scalene or not a triangle.The user enters in the length of the base , height and hypotenus .
 
 ## Setup/Installation Requirements
-Access to the website url
+
 
 ##BDD
 
 |   BEHAVIOUR      | INPUT     | OUTPUT      |
-|------------------|-----------|-------------|          
-|base = height     |  6,6,6    | equilateral |          
+|------------------|-----------|-------------|      
+|base = height     |  6,6,6    | equilateral | |                  |           |             |
 | =hypotenus       |           |             |   
-|------------------|-----------|-------------|          
-|base = height or  |  6,6,5    | isoscelese  |
+|------------------|-----------|-------------|      |base = height or  |  6,6,5    | isoscelese  |
 |height = hypotenus|           |             |
 |orbase = hypotenus|           |             |  
 |------------------|-----------|-------------|
