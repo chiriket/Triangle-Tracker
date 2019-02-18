@@ -18,7 +18,7 @@ The triangle tracker determines whether a triangle is equilateral, isoscelese , 
 |base = height     |  6,6,6    | equilateral |          
 | =hypotenus       |           |             |   
 |------------------|-----------|-------------|          
-|base = height or  |  6,6,5    |isoscelese   |
+|base = height or  |  6,6,5    | isoscelese  |
 |height = hypotenus|           |             |
 |orbase = hypotenus|           |             |  
 |------------------|-----------|-------------|
