@@ -5,7 +5,6 @@
 The triangle tracker determines whether a triangle is equilateral, isoscelese , scalene or not a triangle.The user enters in the length of the base , height and hypotenus .
 
 ## Setup/Installation Requirements
-Working internet connection
 Access to the website url
 
 ##BDD
